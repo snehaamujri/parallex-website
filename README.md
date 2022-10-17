@@ -1,1 +1,1 @@
-# parallex-website
+# parallex-web
