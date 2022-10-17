@@ -8,7 +8,7 @@ html,body{
     color:#666;
 }
 .ping1{
-    background-image:url(images/imaget2.jpg);
+    background-image:url(images/imagef2.png);
     min-height:100%;
 
 
@@ -19,6 +19,7 @@ html,body{
 }
 .ping3{
     background-image:url(images/imaget4.jpg);
+    
     min-height:500px;
 }
 .ping4{
